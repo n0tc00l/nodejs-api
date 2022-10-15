@@ -1,1 +1,5 @@
-console.log("start")
+console.log(global);
+
+var s = "STOP"
+console.log(s);
+
